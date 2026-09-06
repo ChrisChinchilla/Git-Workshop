@@ -1,3 +1,3 @@
-= Welcome to Write the Docs Berlin
+# Welcome to Write the Docs Berlin
 
-== Hello from Copenhagen
+Hello from Copenhagen
