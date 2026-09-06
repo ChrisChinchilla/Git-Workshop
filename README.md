@@ -1,6 +1,12 @@
 # Git-Workshop
-another hello
+
 Hello to the workshop! 👋
+
+---
+
+**This is a git workshop testing git command lines.**
+
+// This is a comment by Erol.
 This is a git workshop testing git command lines.
 
 ## Addition to this document
