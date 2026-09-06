@@ -1,4 +1,4 @@
 # Git-Workshop
 
-Hello to the workshop 👋
+Hello to the workshop! 👋
 This is a git workshop testing git command lines.
